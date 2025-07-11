@@ -26,4 +26,14 @@ For my third project I have decide to make a booking site for a fictional tour b
 - Git committed "Introduction to readme file".
 - Added virtual enivroment.
 - Added Django 4.2.23.
+- Ran Django.
 - Added requirements.txt file.
+- Created milestone_project_3 project.
+- Migrated project.
+- Created mekong_cruises app.
+- Migrated app.
+- Git committed "Activated virtual environment, ran Django, created project and app"
+- Had issues with committing when a branch split when created user stories template.
+-Merged all branches.
+-Git committed "Merged all branches"
+-
