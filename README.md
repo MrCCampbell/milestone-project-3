@@ -23,4 +23,7 @@ For my third project I have decide to make a booking site for a fictional tour b
 - Linked the project to repositry.
 - Added readme file.
 - Added introduction to the readme file. 
-- Git committed "Introduction to readme file"
+- Git committed "Introduction to readme file".
+- Added virtual enivroment.
+- Added Django 4.2.23.
+- Added requirements.txt file.
