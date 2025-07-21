@@ -38,3 +38,27 @@ For my third project I have decide to make a booking site for a fictional tour b
 - Git committed "Merged all branches"
 - Git committed "Added Django"
 - Git committed "Added Heroku"
+- Added html, css, js with favicons.
+- Git committed " Added html, css, js with favicons"
+- 
+
+### Credits
+
+#### Content
+
+- Process used from [CI Boardwalk Games](https://github.com/Code-Institute-Solutions/boardwalk-games-v1-sourcecode.git), and [CI Dev Portfolio](https://github.com/Code-Institute-Solutions/dev-portfolio.git).
+- Template for website used from [Code-Institute-Org](https://github.com/Code-Institute-Org/ci-full-template).
+- HTML and CSS code help from [W3Schools](https://www.w3schools.com/), and [WHATWG](https://whatwg.org/).
+- Bootstrap code help from [Bootstrap](https://getbootstrap.com/).
+- Gudiance taken from articles on [Stack Overflow](https://stackoverflow.com/), [CodeMentor](https://www.codementor.io/projects) and [W3Schools](https://www.w3schools.com/).
+- Favicon images from [Icons8](https://www.icons8.com/).
+- Palette colours were made from [Coolors](https://coolors.co/)
+- Fonts were taken from [Google Fonts](https://fonts.google.com/)
+- Images compressed by [Image Resizer](https://imageresizer.com/image-compressor).
+- AI assitance from [Google Gemini](https://gemini.google.com) and [ChatGPT](https://chat.openai.com/).
+- Used images and code from my Milestone Project 1 and 2 for the contact section.
+- Help, inspiration and support from my mentor [Daniel Hamliton](https://github.com/dlhamilton).
+
+#### Media
+
+- icons8-bridge-bubbles-16/32/96.png was taken from https://icons8.com/icon/set/bridge-bubbles.
