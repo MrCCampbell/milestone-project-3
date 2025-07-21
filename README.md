@@ -37,3 +37,4 @@ For my third project I have decide to make a booking site for a fictional tour b
 - Merged all branches.
 - Git committed "Merged all branches"
 - Git committed "Added Django"
+- Git committed "Added Heroku"
