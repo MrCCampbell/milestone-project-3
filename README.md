@@ -40,7 +40,9 @@ For my third project I have decide to make a booking site for a fictional tour b
 - Git committed "Added Heroku"
 - Added html, css, js with favicons.
 - Git committed " Added html, css, js with favicons"
-- 
+- Addded carousel to index.html.
+- Git committed "Added carousel to index.html"
+- Git committed "Updated carousel"
 
 ### Credits
 
