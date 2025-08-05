@@ -7,14 +7,34 @@
 For my third project I have decide to make a booking site for a fictional tour boat company on the Mekong river based at the riverside near the Royal Palace in Phnom Penh. The site will have the ability to book a sight seeing cruise on the Mekong river. Choosing the time and day to avoid missing out on the experience as they can become crowded at certain days and times. Day cruises are where you can see many sights of historical and cultural importance and night cruise get to see the city at night.
 
 
-
-
-
 ### First steps
 
 - First went to GitHub to start a new project board for my milestone project 3 with the new skills learnt from section 3 of the course. I have added  issues to the to-do section of the board. They have acceptance criteria and tasks with each one prioritised with importance.
 
 #### Link to GitHub project board
+### First steps
+
+- First went to GitHub to start a new project board for my milestone project 2. I have added 8 issues to the to-do section of the board. They have acceptance criteria and tasks with each one prioritised with importance.
+
+#### Link to GitHub project board
+
+[Github project board](https://github.com/users/MrCCampbell/projects/8/views/1)
+
+![alt text](static/readme_images/Screenshot%202025-08-04%20195723.png "Github project board")
+
+- Next stop was Balsamiq, where I made wireframes of the website for different devices.
+
+#### Wireframe for browser window
+
+![alt text](static/readme_images/Screenshot%202025-08-03%20184835.png "Browser window")
+
+#### Wireframe for a tablet
+
+![alt text](static/readme_images/Screenshot%202025-08-03%20184750.png "Tablet window")
+
+#### Wireframe for a mobile phone
+
+![alt text](static/readme_images/Screenshot%202025-08-03%20184735.png "Mobile phone window")
 
 ### Coding the website
 
@@ -43,6 +63,8 @@ For my third project I have decide to make a booking site for a fictional tour b
 - Addded carousel to index.html.
 - Git committed "Added carousel to index.html"
 - Git committed "Updated carousel"
+- Added superuser and migrate 1st time.
+- Git committed "Added superuser and migrate 1st time"
 
 ### Credits
 
