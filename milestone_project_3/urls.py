@@ -16,13 +16,12 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from mekong_cruises import views as index_views
-# Import views from the mekong_cruises app
 
 
 urlpatterns = [
 
     path('admin/', admin.site.urls),
-    path('', include('mekong_cruises.urls')),
+    path('summernote/', include('django_summernote.urls')),
+    path('', include('mekong_cruises.urls'), name='mekong_cruises-urls'),
     # Include URLs from the mekong_cruises app
 ]

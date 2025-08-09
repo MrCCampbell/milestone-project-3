@@ -65,6 +65,9 @@ For my third project I have decide to make a booking site for a fictional tour b
 - Git committed "Updated carousel"
 - Added superuser and migrate 1st time.
 - Git committed "Added superuser and migrate 1st time"
+- Added summernote and migrate 2nd time.
+- Git committed "Added summernote and migrate 2nd time"
+
 
 ### Credits
 

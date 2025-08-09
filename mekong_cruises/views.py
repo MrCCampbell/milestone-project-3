@@ -1,11 +1,9 @@
 from django.shortcuts import render
 from django.views import View
-from django.http import HttpResponse
+# Import necessary modules for the view
 
 
 class Home(View):
     def get(self, request):
-        return HttpResponse("It works!")
-    # def get(self, request):
-    #     print("GET request received")
-    #     return render(request, "index.html", {})
+        print("GET request received")
+        return render(request, "index.html", {})
