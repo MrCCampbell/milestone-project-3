@@ -10,6 +10,12 @@
 --highlight-color: #BADEFC; /* Urainian blue */
 --highlight-color-light: #0AFFED; /* Fluorescent cyan */
 }
+/* carousel */
+
+#carouselKhmerSlide {
+    background-color: var(--primary-color);
+    color: var(--highlight-color-light);
+}
 
 /* Footer / contact */
 
